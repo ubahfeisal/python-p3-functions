@@ -20,5 +20,5 @@ def add(num1, num2):
 add(2,5)
 
 def halve(number):
-    print(number//2)
-halve(10)
+    print(number/2)
+halve(15)
